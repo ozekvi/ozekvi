@@ -26,7 +26,7 @@
 
 ```kotlin
 data class Developer(
-    val name: String     = "oZekvi",
+    val name: String = "oZekvi",
     val location: String = "Belarus",
     val focus: List<String> = listOf(
         "Android (Jetpack Compose + Hilt)",
