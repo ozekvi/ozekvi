@@ -40,7 +40,7 @@ data class Developer(
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <details open>
 <summary><b>Mobile</b></summary>
@@ -105,12 +105,9 @@ data class Developer(
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ozekvi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=8b949e"/>
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozekvi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&langs_count=8"/>
 
 <br/>
-
-<img src="https://streak-stats.demolab.com?user=ozekvi&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=ff6e6e&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e"/>
 
 </div>
 
