@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/ozekvi">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+oZekvi+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer;Building+things+that+matter." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+oZekvi+%F0%9F%91%8B;Building+things+that+matter.;Always+learning+something+new." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,14 +27,13 @@
 ```kotlin
 data class Developer(
     val name: String     = "oZekvi",
-    val location: String = "Poland 🇵🇱",
+    val location: String = "Belarus",
     val focus: List<String> = listOf(
         "Android (Jetpack Compose + Hilt)",
         "Web (React / TypeScript / Firebase)",
         "Game Dev (Unity / C#)",
         "3D Art (Blender)"
     ),
-    val currentlyBuilding: String = "Anigula — anime streaming platform",
     val learning: String = "Always something new"
 )
 ```
@@ -82,56 +81,27 @@ data class Developer(
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🎌 Anigula</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Android-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Web-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      </p>
-      <p align="center">
-        Anime streaming platform with Android + Web client. Kodik API integration, Jetpack Paging 3, Firebase Auth, real-time watch history and VIP system.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">⌨️ TypeForge</h3>
+      <h3 align="center">TypeForge</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/React-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       </p>
       <p align="center">
-        Monkeytype-style typing test app. Friends system, 1v1 duels, leaderboards, multiple languages, Cryptomus payment integration.
+        Typing test app. Friends system, 1v1 duels, leaderboards, multiple languages.
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">⚔️ Arcanum Legends</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Unity-C%23-239120?style=flat-square&logo=unity&logoColor=white"/>
-      </p>
-      <p align="center">
-        Mobile RPG built in Unity. Clean architecture with ServiceLocator, EventBus, and a full UI layer system across 18+ panels and ViewModels.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔧 SquadSSS</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-      </p>
-      <p align="center">
-        <a href="https://github.com/ozekvi/SquadSSS">→ View on GitHub</a>
-      </p>
-    </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -146,7 +116,7 @@ data class Developer(
 
 ---
 
-## 📈 Activity
+## Activity
 
 <div align="center">
 
