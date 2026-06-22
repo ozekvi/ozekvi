@@ -1,12 +1,16 @@
 <div align="center">
+
+<!-- HEADER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=120&section=header&text=&animation=fadeIn"/>
 
+<!-- TYPING ANIMATION -->
 <a href="https://github.com/ozekvi">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+oZekvi+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer;Building+things+that+matter." alt="Typing SVG" />
 </a>
 
 <br/>
 
+<!-- TAGLINE -->
 <p>
   <img src="https://img.shields.io/badge/Android-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Web-React%20%2F%20TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -23,13 +27,14 @@
 ```kotlin
 data class Developer(
     val name: String     = "oZekvi",
-    val location: String = "Belarus",
+    val location: String = "Poland 🇵🇱",
     val focus: List<String> = listOf(
         "Android (Jetpack Compose + Hilt)",
         "Web (React / TypeScript / Firebase)",
         "Game Dev (Unity / C#)",
         "3D Art (Blender)"
     ),
+    val currentlyBuilding: String = "Anigula — anime streaming platform",
     val learning: String = "Always something new"
 )
 ```
@@ -77,26 +82,75 @@ data class Developer(
 
 ---
 
-## GitHub Stats
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎌 Anigula</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Android-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Web-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      </p>
+      <p align="center">
+        Anime streaming platform with Android + Web client. Kodik API integration, Jetpack Paging 3, Firebase Auth, real-time watch history and VIP system.
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">⌨️ TypeForge</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      </p>
+      <p align="center">
+        Monkeytype-style typing test app. Friends system, 1v1 duels, leaderboards, multiple languages, Cryptomus payment integration.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚔️ Arcanum Legends</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Unity-C%23-239120?style=flat-square&logo=unity&logoColor=white"/>
+      </p>
+      <p align="center">
+        Mobile RPG built in Unity. Clean architecture with ServiceLocator, EventBus, and a full UI layer system across 18+ panels and ViewModels.
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔧 SquadSSS</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/ozekvi/SquadSSS">→ View on GitHub</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ozekvi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ozekvi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=8b949e"/>
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozekvi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&langs_count=8"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ozekvi&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=ff6e6e&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e"/>
+<img src="https://streak-stats.demolab.com?user=ozekvi&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=ff6e6e&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e"/>
 
 </div>
 
 ---
 
-## Achievements
+## 📈 Activity
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ozekvi&theme=onestar&no-frame=true&column=6&margin-w=6&margin-h=6)](https://github.com/ozekvi)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ozekvi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f2937&hide_border=true" width="100%"/>
 
 </div>
 
@@ -107,6 +161,6 @@ data class Developer(
 <!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=100&section=footer"/>
 
-<sub>Made with ❤️ and too much caffeine <a href="https://github.com/ozekvi">github.com/ozekvi</a></sub>
+<sub>Made with ❤️ and too much caffeine · <a href="https://github.com/ozekvi">github.com/ozekvi</a></sub>
 
 </div>
