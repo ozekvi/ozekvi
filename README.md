@@ -96,12 +96,12 @@ data class Developer(
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/ozekvi/fastgrep">fastgrep</a></h3>
+      <h3 align="center">fastgrep</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&color=gray"/>
       </p>
       <p align="center">
-        Fast and efficient command-line search tool built in C++.
+        Fast and efficient command-line search tool built in C++
       </p>
     </td>
   </tr>
