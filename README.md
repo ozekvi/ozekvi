@@ -95,6 +95,15 @@ data class Developer(
         Typing test app. Friends system, 1v1 duels, leaderboards, multiple languages.
       </p>
     </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/ozekvi/fastgrep">fastgrep</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white"/>
+      </p>
+      <p align="center">
+        Fast and efficient command-line search tool built in C++.
+      </p>
+    </td>
   </tr>
   </tr>
 </table>
