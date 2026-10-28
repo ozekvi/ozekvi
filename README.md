@@ -30,7 +30,6 @@ data class Developer(
     val focus: List<String> = listOf(
         "Android (Jetpack Compose + Hilt)",
         "Web (React / TypeScript / Firebase)",
-        "Game Dev (Unity / C#)",
         "3D Art (Blender)"
     ),
     val learning: String = "Always something new"
