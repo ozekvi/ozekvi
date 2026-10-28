@@ -14,7 +14,6 @@
 <p>
   <img src="https://img.shields.io/badge/Android-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Web-React%20%2F%20TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Game%20Dev-Unity%20%2F%20C%23-FFFFFF?style=flat-square&logo=unity&logoColor=black"/>
   <img src="https://img.shields.io/badge/3D-Blender-EA7600?style=flat-square&logo=blender&logoColor=white"/>
 </p>
 
